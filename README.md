@@ -14,7 +14,7 @@ montagem da base amarela para abrigar todo o conjunto do braço robótico
 motor grande com base amarela
 0x29: https://youtu.be/UFfT0JtN1sA?t=29
 
-<img src="img/montando_motorolateral_antesestrutura.jpeg" width="640" height="360" />
+<img src="img/motorgrande_baseamarela.jpeg" width="640" height="360" />
 
 2 estrutura para apoiar os braços utilizando o motor grande como apoio:
 0s39: https://youtu.be/UFfT0JtN1sA?t=39
