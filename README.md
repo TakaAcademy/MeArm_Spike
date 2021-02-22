@@ -3,6 +3,8 @@ Criando um  MeArm com Lego Spike Prime
 
 Criando MeArm baseado https://www.youtube.com/watch?v=UFfT0JtN1sA&feature=youtu.be by TESSLAB Robotics
 
+![img de todas as pecas utilizadas na montagem](img/allcomponentes | width=300)
+
 motor grande com base amarela
 0x29: https://youtu.be/UFfT0JtN1sA?t=29
 
