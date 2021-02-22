@@ -21,7 +21,7 @@ motor grande com base amarela
 
 <img src="img/montando_estrutura_pecas.jpeg" width="640" height="360" />
 <img src="img/montando_motorolateral_antesestrutura.jpeg" width="640" height="360" />
-<img src="img/montando_motorolateral_antesestrutura.jpeg" width="640" height="360" />
+<img src="img/motorgrande_comestrutura.jpeg" width="640" height="360" />
 
 eixo traseira que estrutura as barras do braço:
 0s45: https://youtu.be/UFfT0JtN1sA?t=45
